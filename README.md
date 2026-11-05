@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ivan Niku
 ==================================================================================================================================
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 Flutter Developer | Front End Developer
 ---------------------------------------
@@ -16,6 +15,8 @@ my daily workflow for faster coding and debugging — shipped a full hospital IC
 ambiguous client requirements into clean, production-ready UI, and shipped an enterprise Angular dashboard for a healthcare workflow POC.
 
 Actively building and shipping independent apps. Seeking a Flutter/frontend role with end-to-end feature ownership.
+
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 * 🌍  I'm based in Chennai, TamilNadu, India
 * 🖥️  See my portfolio at [PortFolio](http://ivan-niku-portfolio.netlify.app)
